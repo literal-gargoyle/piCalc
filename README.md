@@ -6,6 +6,9 @@
 
 This project calculates Pi to 1 million decimal places using Python's `mpmath` library and saves the result in a Microsoft Word document. It is designed to be user-friendly, automatically installs dependencies, and provides a progress bar for better user experience.
 
+## This Project was made for my book
+The book is releasing on amazon soon!
+
 ---
 
 ## Features
@@ -33,4 +36,4 @@ This project calculates Pi to 1 million decimal places using Python's `mpmath` l
 ## Usage
 1. Run the script:
    ```bash
-   python calcPiTo1MDigits.py
+   python piCalc.py
